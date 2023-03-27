@@ -1,0 +1,9 @@
+{
+    "name": "manonlambert/composer_quest",
+    "autoload": {
+        "psr-4": {
+            "Manonlambert\\ComposerQuest\\": "src/"
+        }
+    },
+    "require": {}
+}
